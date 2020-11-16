@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/GenshinImpactCharacterBuilder/static/css/main.5031898a.chunk.css",
-    "main.js": "/GenshinImpactCharacterBuilder/static/js/main.a8d486e5.chunk.js",
-    "main.js.map": "/GenshinImpactCharacterBuilder/static/js/main.a8d486e5.chunk.js.map",
+    "main.css": "/GenshinImpactCharacterBuilder/static/css/main.caf62e1f.chunk.css",
+    "main.js": "/GenshinImpactCharacterBuilder/static/js/main.c751601d.chunk.js",
+    "main.js.map": "/GenshinImpactCharacterBuilder/static/js/main.c751601d.chunk.js.map",
     "runtime-main.js": "/GenshinImpactCharacterBuilder/static/js/runtime-main.45326815.js",
     "runtime-main.js.map": "/GenshinImpactCharacterBuilder/static/js/runtime-main.45326815.js.map",
-    "static/js/2.06e869b5.chunk.js": "/GenshinImpactCharacterBuilder/static/js/2.06e869b5.chunk.js",
-    "static/js/2.06e869b5.chunk.js.map": "/GenshinImpactCharacterBuilder/static/js/2.06e869b5.chunk.js.map",
+    "static/js/2.a21b1634.chunk.js": "/GenshinImpactCharacterBuilder/static/js/2.a21b1634.chunk.js",
+    "static/js/2.a21b1634.chunk.js.map": "/GenshinImpactCharacterBuilder/static/js/2.a21b1634.chunk.js.map",
     "index.html": "/GenshinImpactCharacterBuilder/index.html",
-    "static/css/main.5031898a.chunk.css.map": "/GenshinImpactCharacterBuilder/static/css/main.5031898a.chunk.css.map",
-    "static/js/2.06e869b5.chunk.js.LICENSE.txt": "/GenshinImpactCharacterBuilder/static/js/2.06e869b5.chunk.js.LICENSE.txt"
+    "static/css/main.caf62e1f.chunk.css.map": "/GenshinImpactCharacterBuilder/static/css/main.caf62e1f.chunk.css.map",
+    "static/js/2.a21b1634.chunk.js.LICENSE.txt": "/GenshinImpactCharacterBuilder/static/js/2.a21b1634.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.45326815.js",
-    "static/js/2.06e869b5.chunk.js",
-    "static/css/main.5031898a.chunk.css",
-    "static/js/main.a8d486e5.chunk.js"
+    "static/js/2.a21b1634.chunk.js",
+    "static/css/main.caf62e1f.chunk.css",
+    "static/js/main.c751601d.chunk.js"
   ]
 }
