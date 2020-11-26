@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/GenshinImpactCharacterBuilder/static/css/main.aa4ecd99.chunk.css",
-    "main.js": "/GenshinImpactCharacterBuilder/static/js/main.8b4655a4.chunk.js",
-    "main.js.map": "/GenshinImpactCharacterBuilder/static/js/main.8b4655a4.chunk.js.map",
+    "main.js": "/GenshinImpactCharacterBuilder/static/js/main.e8930d6a.chunk.js",
+    "main.js.map": "/GenshinImpactCharacterBuilder/static/js/main.e8930d6a.chunk.js.map",
     "runtime-main.js": "/GenshinImpactCharacterBuilder/static/js/runtime-main.45326815.js",
     "runtime-main.js.map": "/GenshinImpactCharacterBuilder/static/js/runtime-main.45326815.js.map",
     "static/js/2.a21b1634.chunk.js": "/GenshinImpactCharacterBuilder/static/js/2.a21b1634.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.45326815.js",
     "static/js/2.a21b1634.chunk.js",
     "static/css/main.aa4ecd99.chunk.css",
-    "static/js/main.8b4655a4.chunk.js"
+    "static/js/main.e8930d6a.chunk.js"
   ]
 }
